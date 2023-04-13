@@ -1,4 +1,4 @@
-<h1 align="center">Hi!!<img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.giff" alt="MarineGEO circle logo" style="height: 35px; width:35px;"/> </h1>
+<h1 align="center">Hi there!<img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.giff" alt="MarineGEO circle logo" style="height: 35px; width:35px;"/> </h1>
 
 
 ![](https://komarev.com/ghpvc/?username=Mdsaa07&color=blueviolet)
