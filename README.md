@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsaad07&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaad07" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+<!--- 🌱 I’m currently learning **AWS**-->
 
 - 📫 How to reach me **mdsaad7803@gmail.com**
 
