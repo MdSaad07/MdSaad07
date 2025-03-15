@@ -53,13 +53,7 @@ Design & Multimedia:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsaad07&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaad07&theme=radical" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsaad07&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
