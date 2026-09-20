@@ -1,5 +1,5 @@
 <h1 align="center">👋 Mohammed Saad Fazal</h1>
-<h3 align="center">🚀 Passionate Software Engineering Undergrad | Full Stack Developer | ML Enthusiast</h3>
+<h3 align="center">🚀 Data Engineer @LTM </h3>
 
 <p align="center">
   <a href="https://portfolio-mdsaadfazal.netlify.app/" target="_blank">
